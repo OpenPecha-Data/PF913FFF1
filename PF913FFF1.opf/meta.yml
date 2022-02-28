@@ -1,0 +1,37 @@
+id: PF913FFF1
+initial_creation_type: input
+source_metadata:
+  title: Buddha Śākyamuni
+  language: fr
+  description: 'Texts by and about Buddha Śākyamuni (shākya thub pa):'
+  volume:
+    c1ffe78cd91b4b8ca2928f3cc9452a81:
+      title: Guru Yoga of the Guru Mahāmuni
+      parent: Guru Yoga
+    771364e4b0c340e192bed6620ccd5be9:
+      title: 'The Merry Sea of Blessings: A Guru Yoga of the Lord of Sages, Peerless
+        Teacher of All, Including the Devas'
+      parent: Guru Yoga
+    a82127d5bd234e928e40619b0c12f6d9:
+      title: In Praise of the Twelve Deeds of the Buddha
+      parent: Praise
+    47f6275406334aacb425eecb46323f69:
+      title: 'Praise of the Buddha: With Skilful Means & Compassion...'
+      parent: Praise
+    512e27f6a53b44dcbffd6344485bf497:
+      title: Praise of the Twelve Acts of the Buddha
+      parent: Praise
+    d166ec8ddf924693ba0d1c749182f1e7:
+      title: Short Praise of the Buddha's Deeds
+      parent: Praise
+    d90b854d36c34b8499e6210c4ef22677:
+      title: Supplication to Lord Buddha together with the Sixteen Arhats
+      parent: Prayers
+    73b02322cdb24b019663e31330cc2930:
+      title: Verses on the Buddha's Previous Lives
+      parent: Prayers
+    90e2837f1d86419d93ad79590c5e931e:
+      title: 'The Treasury of Blessings: A Practice of Buddha Śākyamuni'
+      parent: Prayers to Śākyamuni
+created_at: '2022-03-01T02:12:34.856847'
+last_modified_at: '2022-03-01T02:12:34.856850'
